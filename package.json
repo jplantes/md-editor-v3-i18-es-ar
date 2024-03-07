@@ -1,0 +1,26 @@
+{
+  "name": "md-editor-v3-i18-es-ar",
+  "version": "0.0.1",
+  "description": "Paquete I18N Español para libreria md-editor-v3",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jplantes/md-editor-v3-i18-es-ar.git"
+  },
+  "author": "Juan Pablo Pérez Lantes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jplantes/md-editor-v3-i18-es-ar/issues"
+  },
+  "homepage": "https://github.com/jplantes/md-editor-v3-i18-es-ar#readme",
+  "dependencies": {
+    "md-editor-v3": "4.12.1"
+  },
+  "devDependencies": {
+    "md-editor-v3": "^4.12.1"
+  }
+}
