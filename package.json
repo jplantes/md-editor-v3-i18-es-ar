@@ -1,6 +1,6 @@
 {
   "name": "md-editor-v3-i18-es-ar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Paquete I18N Español para libreria md-editor-v3",
   "main": "index.js",
   "type": "module",
