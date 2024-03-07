@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/jplantes/md-editor-v3-i18-es-ar#readme",
   "dependencies": {
-    "md-editor-v3": "4.12.1"
+    "md-editor-v3": "^4.12.1"
   },
   "devDependencies": {
     "md-editor-v3": "^4.12.1"
